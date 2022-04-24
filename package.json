@@ -1,0 +1,19 @@
+{
+  "name": "my_first_api",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000y\u0000_\u0000f\u0000i\u0000r\u0000s\u0000t\u0000_\u0000A\u0000P\u0000I\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreaCuriel/my_first_API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreaCuriel/my_first_API/issues"
+  },
+  "homepage": "https://github.com/AndreaCuriel/my_first_API#readme"
+}
